@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Dmitry
-- 👀 I’m interested in Web-Scraping
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: novvikovdmitry@gmail.com
